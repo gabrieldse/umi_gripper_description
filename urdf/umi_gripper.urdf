@@ -61,7 +61,6 @@
   </link>
 
   <!-- ****************************** LEFT FINGER  JOINTS ***************************************  -->
-  <!-- Fixed Joints to Connect Finger Holders to Bottom Plate -->
   <joint name="joint_finger_holder_left" type="prismatic">
     <parent link="bottom_plate" />
     <child link="finger_holder_left" />
@@ -190,13 +189,5 @@
     <child link="go_pro" />
     <origin xyz="0 0 0" rpy="0 -0 0" />
   </joint>
-
-
-  <!-- Inertial Properties for Finger Holders (Optional) -->
-  <!-- <inertial>
-    <origin xyz="0 0 0" rpy="0 0 0"/>
-    <mass value="0" />
-    <inertia ixx="0" ixy="0"  ixz="0" iyy="0" iyz="0" izz="0" />
-  </inertial> -->
 
 </robot>
