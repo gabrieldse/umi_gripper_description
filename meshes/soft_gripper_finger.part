@@ -1,0 +1,14 @@
+{
+    "configuration": "default",
+    "documentId": "c8d06048fc2e425772f2749c",
+    "documentMicroversion": "4449755ebbf40a6bc03caac5",
+    "documentVersion": "b53f434e160902b34abe3091",
+    "elementId": "9bfcae8c819f4eafb2a69c1c",
+    "fullConfiguration": "default",
+    "id": "MMZdoGcK7wY1JyieI",
+    "isStandardContent": false,
+    "name": "soft_gripper_finger <2>",
+    "partId": "JRD",
+    "suppressed": false,
+    "type": "Part"
+}
